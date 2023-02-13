@@ -8,8 +8,6 @@
 </head>
 <body>
 <h1>Página inicial</h1>
-<p>Sejam bem-vindos ao nosso website</p>7
-<a href="catalogo.html">Ir para a página de catálogo</a>
-<a href="sobre.html">Sobre nós</a>
+<p>Sejam bem-vindos à página sobre</p>7
 </body>
 </html>
